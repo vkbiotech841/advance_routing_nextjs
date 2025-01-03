@@ -1,0 +1,12 @@
+# Next.js specific
+.next/
+out/
+build/
+
+# Node.js specific
+node_modules/
+
+# Other common files
+.DS_Store
+*.log
+*.env
